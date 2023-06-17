@@ -1,7 +1,7 @@
 # Sokoban
 
 Ce projet en collaboration avec JeeJaFR est un jeu Sokoban codé par notre professeur. Le projet original codé
-en totale collaboration avec JeejaFR est disponible ici : [github.com/JeejaFR/Sokoban](https://github.com/JeejaFR/Sokoban)
+en totale collaboration en binôme avec JeejaFR est disponible ici : [github.com/JeejaFR/Sokoban](https://github.com/JeejaFR/Sokoban)
 
 Le but de ce projet pour les étudiants était de créer un algorithme de recherche de chemin pour le jeu Sokoban.
 
